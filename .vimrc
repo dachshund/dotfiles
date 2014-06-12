@@ -77,12 +77,6 @@ set nohidden
 set laststatus=2
 set statusline=%F%m%r%h%w\ (%{&ff}){%Y}\ [%l,%v][%p%%]
 
-" Vim color file
-" Maintainer:   Piotr HusiatyÅ„ski <phusiatynski@gmail.com>
-
-set background=dark
-highlight clear
-
 set colorcolumn=80
 
 set spell
